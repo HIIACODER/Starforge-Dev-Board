@@ -1,0 +1,17 @@
+Parts Type,JLCPCB Part #,MFR Part #,Description,Unit Price,Qty,Total Price
+stock,C107005,CC0402JRNPO9BN330,33pF 50V NP0 ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,0.0023,20,0.05
+stock,C11702,0402WGF1001TCE,-55℃~+155℃ 1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,0.0013,20,0.03
+stock,C1525,CL05B104KO5NNNC,100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,0.0035,65,0.23
+stock,C15525,CL05A106MQ5NUNC,10uF 6.3V X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,0.0257,20,0.52
+stock,C2040,RP2040,12bit 133MHz 30 LQFN-56(7x7) Microcontrollers (MCU/MPU/SOC) ROHS,1.0769,5,5.39
+stock,C25744,0402WGF1002TCE,-55℃~+155℃ 10kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,0.0011,20,0.03
+stock,C25905,0402WGF5101TCE,-55℃~+155℃ 5.1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,0.0023,20,0.05
+stock,C2894897,HC-TYPE-C-16P-01A,"-55℃~+85℃ 1 16P 20V 5A 7.35mm Black Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS",0.1004,5,0.51
+stock,C2909343,FRC0402F27R0TS,-55℃~+155℃ 27Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,0.0017,20,0.04
+stock,C29266,CL05A105KO5NNNC,16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,0.0055,30,0.17
+stock,C2937625,PZ254V-11-03P,"-40℃~+105℃ 1 1x3P 2.54mm 2.5mm 250V 3A 3P 3mm 6.1mm Black Brass Gold Square pin Through Hole Plugin,P=2.54mm Pin Headers ROHS",0.0199,7,0.14
+stock,C39051,MCP1700T-3302E/TT,"-40℃~+125℃@(Tj) 1 1.6uA 178mV@(250mA) 250mA 3.3V 44dB@(100Hz) 6V Fixed Over Temperature Protection、Short Circuit Protection Positive SOT-23 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",0.4779,5,2.39
+stock,C50981,2.54-1*20PStraight pin,"-40℃~+105℃ 1 1x20P 2.54mm 20P 3A Black Brass Pin Header Through Hole 插件,P=2.54mm Pin Headers ROHS",0.158,10,1.58
+stock,C720477,TS-1088-AR02016,"-30℃~+80℃ 1.6N 100,000 cycles 12V 2mm 3.9mm 3mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS",0.0527,9,0.48
+stock,C97521,W25Q128JVSIQ,"-40℃~+85℃ 100,000 cycles 120ms@(32KB) 128Mbit 133MHz 1uA 2.7V~3.6V 20 Years 3ms Power-on reset、Hardware write protection、Software write protection、Write enable latch、Absolute write protection SPI SOIC-8-208mil NOR FLASH ROHS",2.5824,5,12.92
+buy,C2843335,W25Q16JVUXIQ,"-40℃~+85℃ 100,000 cycles 10uA 133MHz 16Mbit 2.7V~3.6V 20 Years 3ms SPI USON-8-EP(2x3) NOR FLASH ROHS",1.5276,6,9.17

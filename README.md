@@ -5,30 +5,30 @@ Here is my PCB! This PCB was designed in KiCAD.
 
 Top View:
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 Bottom View:
 
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 PCB Design:
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 First Layer: 
 
-![alt text](image-4.png)
+![alt text](assets/image-4.png)
 
 Second Layer:
 
-![alt text](image-5.png)
+![alt text](assets/image-5.png)
 
 Third Layer: 
 
-![alt text](image-6.png)
+![alt text](assets/image-6.png)
 
 Fourth Layer: 
 
-![alt text](image-7.png)
+![alt text](assets/image-7.png)
 # BOM
-BOM coming soon!
+BOM.CSV is now in the repo!
