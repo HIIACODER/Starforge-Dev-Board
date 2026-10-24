@@ -7683,7 +7683,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SON:Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm"
+		(property "Footprint" "lcsc_footprints:C7466821_USON8_L3_0-W2_0-P0_50-BL-EP"
 			(at 96.52 49.53 0)
 			(hide yes)
 			(show_name no)
