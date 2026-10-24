@@ -31,4 +31,4 @@ Fourth Layer:
 
 ![alt text](image-7.png)
 # BOM
-BOM coming soon!
+BOM.CSV is now in the repo! 
