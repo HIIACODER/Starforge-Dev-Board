@@ -31,4 +31,4 @@ Fourth Layer:
 
 ![alt text](assets/image-7.png)
 # BOM
-BOM.CSV is now in the repo!
+BOM.csv is now in the repo!
