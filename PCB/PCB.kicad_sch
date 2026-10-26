@@ -7061,7 +7061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical"
+		(property "Footprint" "lcsc_footprints:C50981_HDR-TH_20P-P2_54-V-M-1"
 			(at 77.47 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -9415,7 +9415,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical"
+		(property "Footprint" "lcsc_footprints:C50981_HDR-TH_20P-P2_54-V-M-1"
 			(at 41.91 128.27 0)
 			(hide yes)
 			(show_name no)
