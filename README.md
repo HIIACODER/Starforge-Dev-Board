@@ -40,6 +40,7 @@ Fourth Layer:
 
 ## Layer Stackup
 The board contains 4 layers. The purpose of all layers listed below.
+
 | Layer | Description |
 | 1 | Main routing layer |
 | 2 | First ground layer for reference and signal separation |
