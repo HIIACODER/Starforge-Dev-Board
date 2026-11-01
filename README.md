@@ -8,10 +8,10 @@ This project should:
 - be a simple dev board I can use for other projects
 
 
-# PCB
+## PCB
 Here is my PCB! This PCB was designed in KiCAD.
 
-## General PCB design images
+### General PCB design images
 
 Schematic:
 
@@ -47,7 +47,7 @@ Fourth Layer:
 
 
 
-## Layer Stackup
+### Layer Stackup
 The board contains 4 layers. The purpose of all layers listed below.
 
 | Layer | Description |
@@ -56,14 +56,14 @@ The board contains 4 layers. The purpose of all layers listed below.
 | 2 | First ground layer for reference and signal separation |
 | 3 | Second ground layer for reference and signal separation |
 | 4 | Overflow routing layer |
-## Flashing Instructions
+### Flashing Instructions
 Here are steps to flash a file to the MCU! 
 1. Hold down the BOOTSEL button (the only button on the board) while plugging the board into your computer via USBC
 2. The board will show up as a USB mass storage device
 3. Compile your .uf2 binary file through external methods (C/C++ SDK, MicroPython, CircuitPython, etc)
 4. Drag your compiled .uf2 file onto the drive. The board should automatically reboot and run the newly uploaded firmware!
 
-# BOM
+## BOM
 
 All SMD parts utilize 0402 passives to minimize board surface area. JLCPCB / LCSC part numbers are included below for reference.
 
