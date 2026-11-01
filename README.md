@@ -1,6 +1,13 @@
 # Starforge-Dev-Board
 A simple 4 layer RP2040 Dev Board powered by USB-C, with data and power delivery. Uses 24 GPIO and 4 ADC pins, alongside 1 3.3V and one 5V output. There is also 7 ground pins with 2 debug pins.
-My goal with this project was to learn how to route properly and effectively on a PCB including decoupling caps and power because that is what I struggle with. I also wanted a simple board to use for my projects.
+
+My goal with this project was to learn how to route properly and effectively on a PCB including how to manage decoupling caps and general power routing because that is what I struggle with. I also wanted a simple board to use for my projects.
+
+This project should:
+- help me develop a base to apply to future projects
+- be a simple dev board I can use for other projects
+
+
 # PCB
 Here is my PCB! This PCB was designed in KiCAD.
 
