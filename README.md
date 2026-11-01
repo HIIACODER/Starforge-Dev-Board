@@ -1,13 +1,18 @@
 # Starforge-Dev-Board
 A simple 4 layer RP2040 Dev Board powered by USB-C, with data and power delivery. Uses 24 GPIO and 4 ADC pins, alongside 1 3.3V and one 5V output. There is also 7 ground pins with 2 debug pins.
+My goal with this project was to learn how to route properly and effectively on a PCB including decoupling caps and power because that is what I struggle with. I also wanted a simple board to use for my projects.
 # PCB
 Here is my PCB! This PCB was designed in KiCAD.
 
-Top View:
+Schematic:
+
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/e9d353cb-ba13-49d4-838a-26d482a17f27" />
+
+Top View (3d render):
 
 ![alt text](assets/image.png)
 
-Bottom View:
+Bottom View (3d render):
 
 ![alt text](assets/image-1.png)
 
@@ -31,9 +36,25 @@ Fourth Layer:
 
 ![alt text](assets/image-7.png)
 
+
+
+## Layer Stackup
+The board contains 4 layers. The purpose of all layers listed below.
+| Layer | Description |
+| 1 | Main routing layer |
+| 2 | First ground layer for reference and signal separation |
+| 3 | Second ground layer for reference and signal separation |
+| 4 | Overflow routing layer |
+## Flashing Instructions
+Here are steps to flash a file to the MCU! 
+1. Hold down the BOOTSEL button (the only button on the board) while plugging the board into your computer via USBC
+2. The board will show up as a USB mass storage device
+3. Compile your .uf2 binary file through external methods (C/C++ SDK, MicroPython, CircuitPython, etc)
+4. Drag your compiled .uf2 file onto the drive. The board should automatically reboot and run the newly uploaded firmware!
+
 # BOM
 
-All SMD parts utilize 0402 passives to minimize board surface area. JLCPCB / LCSC part numbers are included below for automated SMT assembly.
+All SMD parts utilize 0402 passives to minimize board surface area. JLCPCB / LCSC part numbers are included below for reference.
 
 | Item | Component / Description | Qty | Designators | Footprint | JLCPCB Part # |
 | :--- | :--- | :---: | :--- | :--- | :--- |
