@@ -4,6 +4,8 @@ My goal with this project was to learn how to route properly and effectively on 
 # PCB
 Here is my PCB! This PCB was designed in KiCAD.
 
+## General PCB design images
+
 Schematic:
 
 <img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/e9d353cb-ba13-49d4-838a-26d482a17f27" />
@@ -42,6 +44,7 @@ Fourth Layer:
 The board contains 4 layers. The purpose of all layers listed below.
 
 | Layer | Description |
+| :--- | :--- |
 | 1 | Main routing layer |
 | 2 | First ground layer for reference and signal separation |
 | 3 | Second ground layer for reference and signal separation |
