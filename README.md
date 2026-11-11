@@ -89,8 +89,13 @@ All SMD parts utilize 0402 passives to minimize board surface area. JLCPCB / LCS
 | 18 | 150Ω Resistor | 1 | `R8` | `R_0402` | `C25082` | $0.001 |
 ### Prices on JLCPCB:
 NOTE: THESE PRICES DO NOT CONTAIN TAXES
+
 PCB (5x): $2.0
+
 PCBA (2x): $48.17
+
 Shipping on Global Standard Direct Line: $3.30
+
+
 
 Thanks for viewing this project!
